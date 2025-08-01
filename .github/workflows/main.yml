@@ -14,10 +14,12 @@ jobs:
     strategy:
       matrix:
         operating-system: [ 'ubuntu-latest' ]
+    env:
+      BRANCH_NAME: ${{ github.repository_owner == 'laiyujun' && 'dev' || 'master' }}
     steps:
       - name: Set branch name
         id: vars
-        run: echo "BRANCH_NAME=${{ github.repository_owner == 'Guovin' && 'gd' || 'master' }}" >> $GITHUB_ENV
+        run: echo "BRANCH_NAME=${{ github.repository_owner == 'laiyujun' && 'dev' || 'master' }}" >> $GITHUB_ENV
       - uses: actions/checkout@v3
         with:
           ref: ${{ env.BRANCH_NAME }}
