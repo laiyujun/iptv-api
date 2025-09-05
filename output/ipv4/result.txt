@@ -1,25 +1,29 @@
 🕘️更新时间,#genre#
-2025-09-05 18:29:38,http://220.169.109.72:802/udp/239.76.246.153:1234
+2025-09-06 06:25:21,http://220.169.109.72:802/udp/239.76.253.153:9000
 
 📺央视频道,#genre#
-CCTV-3,http://220.169.109.72:802/udp/239.76.246.153:1234
+CCTV-3,http://220.169.109.72:802/udp/239.76.253.153:9000
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-CCTV-4,http://220.169.109.72:802/udp/239.76.245.195:1234
-CCTV-5,http://220.169.109.72:802/udp/239.76.253.155:9000
-CCTV-6,http://220.169.109.72:802/udp/239.76.253.156:9000
-CCTV-7,http://220.169.109.72:802/udp/239.76.253.157:9000
-CCTV-9,http://220.169.109.72:802/udp/239.76.253.159:9000
-CCTV-10,http://220.169.109.72:802/udp/239.76.246.160:1234
-CCTV-13,http://220.169.109.72:802/udp/239.76.253.93:9000
-CCTV-16,http://220.169.109.72:802/udp/239.76.254.200:9000
-CETV-1,http://220.169.109.72:802/udp/239.76.252.192:9000
+CCTV-4,http://111.43.126.240:9003/hls/16/index.m3u8
+CCTV-4,http://220.169.109.72:802/udp/239.76.246.154:1234
+CCTV-10,http://220.169.109.72:802/udp/239.76.253.160:9000
+CCTV-16,http://220.169.109.72:802/udp/239.76.253.224:9000
 
 💰央视付费频道,#genre#
 文化精品,http://220.169.109.72:802/udp/239.76.254.56:9000
+风云音乐,http://www.lizhinas.top:1009/rtp/239.252.219.87:5140
 风云音乐,http://220.169.109.72:802/udp/239.76.254.51:9000
+风云音乐,http://dassby.qqff.top:99/live/风云音乐/index.m3u8
+风云音乐,rtsp://115.153.245.70/PLTV/88888888/224/3221226994/86128897.smil
+风云音乐,rtsp://115.153.247.80/PLTV/88888888/224/3221226994/86128897.smil
+风云音乐,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226994/86128897.smil
 风云剧场,http://www.lizhinas.top:1009/rtp/239.252.219.89:5140
 高尔夫网球,http://www.lizhinas.top:1009/rtp/239.252.219.95:5140
+兵器科技,http://www.lizhinas.top:1009/rtp/239.252.219.98:5140
 兵器科技,http://220.169.109.72:802/udp/239.76.254.59:9000
+兵器科技,rtsp://115.153.245.70/PLTV/88888888/224/3221227004/86132185.smil
+兵器科技,rtsp://115.153.247.80/PLTV/88888888/224/3221227004/86132185.smil
+兵器科技,rtsp://115.153.222.112:554/PLTV/88888888/224/3221227004/86132185.smil
 
 📡卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
@@ -31,6 +35,7 @@ CETV-1,http://220.169.109.72:802/udp/239.76.252.192:9000
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
+西藏卫视,http://219.146.95.58:59902/tsfile/live/0111_1.m3u8
 
 ☘️陕西频道,#genre#
 
@@ -52,11 +57,13 @@ Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.25
 靖天资讯,https://cdn.iptv8k.top/dl/jrys.php?id=315&time=20240926215313&ip=111.229.253.40
 
 🎬电影频道,#genre#
+纬来电影,https://pixman.mytvsuper.com.mp/Smart.php?id=videolandmovie
 靖天映画,https://cdn.iptv8k.top/dl/jrys.php?id=320&time=20240926215313&ip=111.229.253.40
 靖天戏剧,https://cdn.iptv8k.top/dl/jrys.php?id=318&time=20240926215313&ip=111.229.253.40
 经典电影,https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40
 天映经典,https://cdn.iptv8k.top/dl/jrys.php?id=71&time=20240926215313&ip=111.229.253.40
 星空卫视,https://cdn.iptv8k.top/dl/jrys.php?id=21&time=20240926215313&ip=111.229.253.40
+龙祥电影,https://pixman.mytvsuper.com.mp/Smart.php?id=lungxiangtime_twn
 东森洋片,https://cdn.iptv8k.top/dl/jrys.php?id=232&time=20240926215313&ip=111.229.253.40
 
 🎥咪咕直播,#genre#
@@ -65,12 +72,11 @@ Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.25
 山东体育,http://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 山东体育,https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
-JJ斗地主,http://zzy789.xyz/douyu1.php?id=488743
 JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
+JJ斗地主,http://zzy789.xyz/douyu1.php?id=488743
 
 🪁动画频道,#genre#
 少儿动画,http://www.lizhinas.top:1009/rtp/239.252.220.136:5140
-卡酷动画,http://124.116.183.146:9901/tsfile/live/0137_1.m3u8
 新动漫,http://www.lizhinas.top:1009/rtp/239.252.220.132:5140
 新动漫,http://dassby.qqff.top:99/live/新动漫/index.m3u8
 新动漫,rtsp://115.153.245.70/PLTV/88888888/224/3221226973/86129004.smil
@@ -84,8 +90,8 @@ JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
 CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.229.253.40
 CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
 炫动卡通,http://www.lizhinas.top:1009/rtp/239.252.219.43:5140
-炫动卡通,http://111.43.126.240:9003/hls/72/index.m3u8
 炫动卡通,http://nas.hssvm.com:8888/udp/225.1.1.62:5002
+炫动卡通,http://111.43.126.240:9003/hls/72/index.m3u8
 炫动卡通,http://183.237.95.108:9901/tsfile/live/1100_1.m3u8?key=txiptv&playlive=0&authid=0
 炫动卡通,http://218.15.183.23:9901/tsfile/live/23042_1.m3u8
 炫动卡通,http://1b6467f415.iok.la:9931/tsfile/live/1056_1.m3u8
