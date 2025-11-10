@@ -1,8 +1,9 @@
 🕘️更新时间,#genre#
-2025-11-10 18:32:21,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+2025-11-11 06:28:09,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 
 📺央视频道,#genre#
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+CCTV-10,http://220.170.241.204:9901/tsfile/live/0010_1.m3u8
 
 💰央视付费频道,#genre#
 文化精品,http://220.169.109.72:802/udp/239.76.254.56:9000
@@ -57,9 +58,9 @@ Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.25
 山东体育,https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 
 🪁动画频道,#genre#
-少儿动画,http://114.252.126.226:8899/hls/32/index.m3u8
 少儿动画,http://124.116.183.146:9901/tsfile/live/0137_1.m3u8
 少儿动画,http://218.15.183.23:9901/tsfile/live/23045_1.m3u8
+少儿动画,http://114.252.126.226:8899/hls/32/index.m3u8
 少儿动画,rtsp://118.212.169.207:554/PLTV/88888888/224/3221227318/10000100000000060000000001945936_0.smil
 少儿动画,rtsp://115.153.245.70/PLTV/88888888/224/3221227006/86440922.smil
 少儿动画,rtsp://115.153.254.81/PLTV/88888888/224/3221227006/86440922.smil
@@ -87,7 +88,7 @@ CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.22
 炫动卡通,rtsp://115.153.247.80/PLTV/88888888/224/3221225583/iptv7982.smil
 炫动卡通,rtsp://115.153.230.145/PLTV/88888888/224/3221225583/iptv7982.smil
 炫动卡通,rtsp://115.153.222.112:554/PLTV/88888888/224/3221225583/iptv7982.smil
-七龙珠,http://huanqiuzhibo.cn/manifest/huya.php?id=11601966
+24H国漫热播,https://lunbo.freetv.top/yy/1353937086
 火影忍者,https://hd.ijycnd.com/play/Yer3NWLa/index.m3u8
 蜡笔小新,http://www.douzhicloud.site:35455/bilibili/30837590
 
