@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-05 18:35:52,http://hmfs.f3322.net:3388/hls/29/index.m3u8
+2026-01-06 06:30:17,http://hmfs.f3322.net:3388/hls/29/index.m3u8
 
 📺央视频道,#genre#
 
@@ -89,6 +89,7 @@ CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.22
 炫动卡通,rtsp://115.153.247.80/PLTV/88888888/224/3221225583/iptv7982.smil
 炫动卡通,rtsp://115.153.230.145/PLTV/88888888/224/3221225583/iptv7982.smil
 炫动卡通,rtsp://115.153.222.112:554/PLTV/88888888/224/3221225583/iptv7982.smil
+24H国漫热播,https://lunbo.freetv.top/yy/1353937086
 火影忍者,https://hd.ijycnd.com/play/Yer3NWLa/index.m3u8
 蜡笔小新,http://www.douzhicloud.site:35455/bilibili/30837590
 
