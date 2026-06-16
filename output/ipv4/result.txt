@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-06-16 07:53:10,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
+2026-06-16 23:15:49,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
 
 📺央视频道,#genre#
 CCTV-5+,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
@@ -8,8 +8,8 @@ CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 💰央视付费频道,#genre#
 文化精品,http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
 风云音乐,http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
-风云音乐,http://hmfs.f3322.net:3388/hls/29/index.m3u8
 风云音乐,http://dassby.qqff.top:99/live/风云音乐/index.m3u8
+风云音乐,http://hmfs.f3322.net:3388/hls/29/index.m3u8
 风云音乐,rtsp://115.153.245.70/PLTV/88888888/224/3221226994/86128897.smil
 风云音乐,rtsp://115.153.247.80/PLTV/88888888/224/3221226994/86128897.smil
 风云音乐,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226994/86128897.smil
